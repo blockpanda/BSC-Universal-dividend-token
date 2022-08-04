@@ -52,7 +52,3 @@ tokenBalanceForReward_: 持有多少代币参与分红，单位是wei，所以�
 
 
 
-
-### TG电报群
-
-https://t.me/mingchao888
